@@ -1,0 +1,1224 @@
+commit 7db0557bb37c143421ba54a862d83f7bd7f37b3c
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 29 02:04:32 2020 +1000
+
+    added binary\ascii choice
+    
+    ~ Fixed: Ascii ooption now reads enums
+    ~ Fixed: binary choice reads, but says not supported
+    ~ Fixed: Content for hashes now unix, instead of windows
+
+commit 74d6474ba0b50c4d86de3f98714bf5b2033b22ae
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 29 01:31:17 2020 +1000
+
+    fixed windows paths
+
+commit b2c8cfeec7cafc1d67ce644e4b01d87d2a4637b6
+Merge: 20702f1 1b8dfe7
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 29 01:20:51 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 20702f1cb2d108da42c3ec174d41625ede3e1742
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 29 01:20:44 2020 +1000
+
+    fixed inifinite loop in login
+
+commit 1b8dfe7740576e5c065840d24c3df94adeb37b9c
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 17:16:42 2020 +0200
+
+    Update Makefile
+
+commit b83ef59733a89187d1e481d6523ba070afe05f40
+Merge: 2063465 9d3f6f0
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 29 01:09:59 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 2063465cca1d8a5c311a0240cfe0665fe2d45bbc
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 29 01:07:40 2020 +1000
+
+    trying to get it to build
+
+commit 9d3f6f057b908d4be2f5167c24f39e5df62a108a
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 17:06:32 2020 +0200
+
+    MAkefile updates
+
+commit 248cfa504a84704c7d836c93a1af61cc8aa8d863
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 29 00:23:03 2020 +1000
+
+    fixeD: visual studio warnings
+
+commit 8a6beceee999b83d9237bd29dda0856c4725e053
+Merge: 23fba75 16ae360
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 29 00:18:21 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 23fba7574dfba0af895231e04afe733f6970e8be
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 29 00:18:04 2020 +1000
+
+    fixing make
+    
+    ~ Changed: all enums now in the enum parser
+    ~ Fixed: 4 Warnings
+    ~ Added: A different makefile to try to get it to work
+
+commit 16ae360ad9670af2fb8d80ed6aac22fe6f4cfffd
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 15:44:59 2020 +0200
+
+    Classes info update
+    
+    ~ added class developer's info
+
+commit 6cd9db53a4119c5f4697e756875eee0c1f77e02b
+Merge: 55730a0 7ce2130
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 15:10:25 2020 +0200
+
+    Merge branch 'master' of https://github.com/JarrydSemmens/Pork
+
+commit 55730a063e7c6d909b4e11a0a5511584a90951da
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 15:10:12 2020 +0200
+
+    Update Makefile
+
+commit 7ce213033e766405e93a43031de115b7cd06a017
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Thu May 28 23:02:54 2020 +1000
+
+    fixed: case bug that closed all doors on save\load
+
+commit e9a2d3d87f8dd028143536d4ce7cd7506c9a5823
+Merge: ba252a9 0c4aa27
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Thu May 28 22:56:40 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit ba252a98cd689fb070f2aba5f38372f578035b46
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Thu May 28 22:53:41 2020 +1000
+
+    Player saves and loads
+    
+    Added: default values so we can see if load works
+    Cleaned: manager comments
+
+commit 0c4aa27e55a5924323d661fca86cb28073280301
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 14:48:49 2020 +0200
+
+    Update Makefile
+
+commit a3f6f17c5b65995616b02e839b6dc35b34a5dea9
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 14:44:26 2020 +0200
+
+    Update Makefile
+
+commit 9ff53045ad6af49efbee50bc68bc8e74cc829426
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 14:29:31 2020 +0200
+
+    Update Makefile
+
+commit d4de3abfb96fe931103040e58e8f9ee3dde277db
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 14:18:25 2020 +0200
+
+    Update Makefile
+
+commit 6220797ee911bb145f6a93f735738c334a402452
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Thu May 28 21:48:42 2020 +1000
+
+    Player is now iloadable
+    
+    ~ Added: Player login load, for loading many players login deets
+    ~ Fixed: Player now sets values to 0, and scrapped constructor
+    ~ Fixed: player manager had player details, removed them
+    ~ FixeD: player had a vector of player ids, this is a manager thing. Removed.
+
+commit e5eae9ed68ec3bc15c15795ddf1bb8c2c659daac
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Thu May 28 21:47:01 2020 +1000
+
+    Fixed content
+    
+    ~ Fixed: Hashes in assignment spec were wrong. Fixed them in content. Irritating.
+    ~ Fixed: areas match spec
+    ~ Fixed: first room matches spec
+    ~ Removed: old definition, savetype
+
+commit 4c0b1775c1a55730f15387e98bba98e899532c87
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 13:33:15 2020 +0200
+
+    Update Makefile
+
+commit a60634e41dbbc31aa63a8d40ba11d0bdc4b9a32b
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 13:19:44 2020 +0200
+
+    makefile updates
+    
+    ~ fixed g++ complier to load boost::system
+
+commit d4609ebcd07b6ddbfc5a42c7ff235e8fbc68a192
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 12:03:40 2020 +0200
+
+    Makefile, Player and PlayerManager updates
+    
+    ~ removed code causing errors
+
+commit ae795d05a89d48b411cfe4db272e297b354fced7
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 11:11:13 2020 +0200
+
+    Makefile updates
+    
+    ~ removal of classes not declaring anything
+
+commit 514688852f98c393a74df61b0212e541e7c49e37
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Thu May 28 10:57:31 2020 +0200
+
+    Update Makefile
+    
+    ~ added all classes to compile
+
+commit 33412c7f6c1442e4c0dba6a1f7bc2c6d1f7a0641
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 27 23:05:34 2020 +0200
+
+    Player and PlayerManager save edits
+    
+    ~ edit save methods and remove redundant variables
+
+commit 5d8d494859a55620742b3365642da7754c58ac50
+Merge: 3bce901 564bc4f
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 27 22:37:10 2020 +0200
+
+    Merge branch 'master' of https://github.com/JarrydSemmens/Pork
+
+commit 3bce901eaf17a1b794d64a5bebecc7d3d28dc7b0
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 27 22:37:05 2020 +0200
+
+    Makefile edits
+    
+    ~ edits to fix Makefile compile errors
+
+commit 564bc4f7ce83978b14a36c89bd9244b4cfabeaa8
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Thu May 28 01:23:40 2020 +1000
+
+    possible fix to make
+
+commit a546101ba5d237f80d1114d62e788a9bbb1a2b78
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Thu May 28 00:56:31 2020 +1000
+
+    adding login
+
+commit afd2945813171c0c40f30c33de4ba5e0069eb182
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Thu May 28 00:40:26 2020 +1000
+
+    cleaned code
+    
+    Fixed: waist entry in items
+
+commit e92b6f5ac48fafefc34f214cb08b75f6dd4ed6e7
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Thu May 28 00:26:25 2020 +1000
+
+    cleaning up code
+
+commit e903f825d96f06e149326ad0d993c4aab1916905
+Merge: 5e19ec7 47f24cd
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 23:56:59 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 5e19ec776748daaf3cb33b9932eb17606881f935
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 23:56:36 2020 +1000
+
+    added random items
+
+commit 47f24cd93df3ca699d31c35fcb787789fa26b673
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 27 15:53:26 2020 +0200
+
+    program wide update
+    
+    using string = std::string; removed
+
+commit 7ee1b385c2f3938bc4e03091c3f098c1a39a1e88
+Merge: 59c0cad f424db4
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 27 15:14:23 2020 +0200
+
+    Merge branch 'master' of https://github.com/JarrydSemmens/Pork
+
+commit 59c0cada7bf958832d64fb5a74834445b4ac7178
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 27 15:14:07 2020 +0200
+
+    Makefiles updated
+
+commit f424db4213433446b25fde49238a3cf68fab8541
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 23:12:53 2020 +1000
+
+    Can display current area command
+
+commit a977d908d4a330571eaea50fa3165ce431fcb858
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 23:06:58 2020 +1000
+
+    added quit command
+
+commit 59d2fcfcc7e18687c76e43794984a8a4cab9a317
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 23:00:13 2020 +1000
+
+    added exits command, refactored look to fill it
+
+commit c5fbd9e32400a7e574299c405679c11f3f90b982
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 22:52:37 2020 +1000
+
+    can now display areas
+
+commit b9a8514bd4d1313f902dae4ddfd406275d53d44f
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 22:45:30 2020 +1000
+
+    implemented look command, as per spec
+
+commit 425ace66fed976bf978b5ae5ce894076580ff009
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 22:32:23 2020 +1000
+
+    can add, equip and remove as per spec
+
+commit 299247b26eacbef13ffe840a00cb7c308f814b77
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 22:20:55 2020 +1000
+
+    you can wear items that are equipped
+
+commit cd34acdcbd6bd1aaf21ceb02aeeb169a4d08eac9
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 22:04:08 2020 +1000
+
+    you can drop items
+
+commit 57556533122688fc7e1ba4d23013db44bc41e946
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 21:42:19 2020 +1000
+
+    fixed, player saves
+
+commit 13cf742a119f448492256b93a645ae3d1f2d8988
+Merge: a367df3 4352d6b
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 21:24:57 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit a367df331141d6ae2fbc64005ff703a6f6d48cbb
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 21:23:44 2020 +1000
+
+    can pickup items
+    
+    ~ Added: items can be added to inventory from rooms
+    ~ added: items can be removed from rooms
+    ~ Fixed: items now have single word names to make playing easier
+
+commit 4352d6b3e5a870349d5af07e0495ff9fb00e648e
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 26 23:23:49 2020 +0200
+
+    Update PlayerManager.cpp
+
+commit 831c9940a768cb1cddf79bd2fabd68e915c74d2d
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 26 22:04:34 2020 +0200
+
+    Removed: PlayerSave
+    
+    ~ Unnecessary classes removed
+
+commit 6cc8f4c86b30cebb4ab2d2deeab041f1580e0d5c
+Merge: 89643de b2c9f18
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 26 16:41:42 2020 +0200
+
+    Merge branch 'master' of https://github.com/JarrydSemmens/Pork
+
+commit 89643de4f02304e090a6c511251b069f6f177a1c
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 26 16:38:11 2020 +0200
+
+    Player and PlayerManager changed to save file
+    
+    ~ added code to save items in order with tabs inbetween each item
+    ~ still debugging code
+
+commit b2c9f184ba6c87376e94d07b25e101ecd2971f86
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 00:34:43 2020 +1000
+
+    doors block you
+
+commit 8fc5e77281a63975df7c626d1f20cd53aaed3a5e
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 27 00:30:13 2020 +1000
+
+    movement added~
+    
+    ~ AddeD: You can now open and close doors, with full messages
+    ~ AddeD: You can now move between rooms, with full messages
+
+commit 4a2f36cf277bc49e84062b241204f40f5d798b92
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 23:38:35 2020 +1000
+
+    fixed player save
+
+commit e80d028ea07235e78f3043eea198e35c5471c46a
+Merge: 209eda3 294e178
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 23:26:19 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 209eda32eaf77c8a47c83d475a7cb036c199aba5
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 23:24:05 2020 +1000
+
+    added working saving ot room ssates.
+    
+    it's missing all the rooms tho
+
+commit 294e1780c18131f70e5037858a31221391ecdc46
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 26 15:23:11 2020 +0200
+
+    Update Player.cpp
+    
+    changed true to EXIT_SUCCESS
+
+commit d4188ffa88c023a29d0702d0b6d9dc9cba7c20b2
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 26 15:21:21 2020 +0200
+
+    Removed PlayerSave code
+    
+    ~ moved code to Player class
+
+commit 9828c3bfc74c0daa3773f5a6358d8c64b7295e6e
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 23:08:04 2020 +1000
+
+    Adding loading of player data
+    
+    ~ Added: true false bool converter to string helper
+    ~ Added: all managers can now save and load from either content or save. theres convenience fucntions to wrap them
+
+commit 87bd979ae709af89d260fa77373241ebd817737d
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 22:36:01 2020 +1000
+
+    player save now invoked!
+
+commit ac7e14f346c521f5e000009ce37ff04b25fffa10
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 22:32:36 2020 +1000
+
+    stubbed in player save in player
+
+commit 96855145dbc609a5a6e2c378fc247ea6fb817034
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 22:31:32 2020 +1000
+
+    Fixed incorrect enum use
+    
+    ~ Added: miro's files
+    ~ Added: ignore for save data
+    ~ Added: output for saving!
+
+commit 75d0d6ca53b725ec0ed4f4035736d50b494a5529
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 22:02:28 2020 +1000
+
+    Fixed: Door access
+
+commit 98144df490b331c5fcca62106ff836affc4ad8b4
+Merge: 2ec1e4b a9523ae
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 21:49:50 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 2ec1e4b78fa19c6bea1e16873c8c38431711c7fa
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 21:49:43 2020 +1000
+
+    removed all duplicate references, in favour of id's
+    
+    ~ Added: Saving of doors to player directory
+    ~ Removed: Duplicate references. it's a C# thing, but i can do it by just using id's here
+    ~ Added: Save and load to door manager
+    ~ AddeD: Save and load to roomstatemanager
+
+commit a9523aeff3c789f3420f2dbc1596e565e2bce999
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 26 11:52:51 2020 +0200
+
+    Update PlayerSave.cpp
+
+commit a393395caaa70f8a963c2b7ead1cca0a7b4deb75
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 26 09:06:03 2020 +0200
+
+    Player variable updates
+    
+    ~ Added missing variables
+    ~ vaiable name changes to allign with rest of program
+
+commit 95ccf396686b8510b89c7699b7040fe5eb9b72e7
+Merge: b2fa294 f3d663f
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 01:00:02 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit b2fa294df082e0fd2f8f70f4a99ad27dfb34b855
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 26 00:58:55 2020 +1000
+
+    removed the parser, and got some stuff saving
+    
+    ~ Changed: Command parser merged into porkgame, because getting access to everything was annoying
+    ~ Added: player default name
+    ~ Added: Saving of room state inventories!
+
+commit f3d663f6d5fed621133bb681bd6e6774dd59ccfa
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Mon May 25 16:42:49 2020 +0200
+
+    Edits: WearPosition and PlayerSave
+    
+    ~ WearPosition variable edits
+    ~ Called WearPosition enums into output string
+
+commit 6f42a8563af672c2fd2da0718c6b0981f9b142bf
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Mon May 25 16:15:14 2020 +0200
+
+    PlayerSave classes update
+
+commit bc9cb6a4c0fde3b7e5efd82709da39799471b9e2
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Mon May 25 16:13:19 2020 +0200
+
+    PlayerSave update
+
+commit e64d9c758b6c3459a65da0e2ad81bee7c0dd1ac6
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Mon May 25 16:07:23 2020 +0200
+
+    Update PlayerSave.cpp
+
+commit bfa2c4ec6adc2a56a4018bbc5f976613f0d4c1fa
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Mon May 25 16:06:29 2020 +0200
+
+    Added: PlayerSave classes
+    
+    ~ saves player stats to ascii file
+
+commit c70e9007de36f862424ef07370ddb086e832e9a5
+Merge: 2da9d79 d5383eb
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Mon May 25 14:59:20 2020 +0200
+
+    Merge branch 'master' of https://github.com/JarrydSemmens/Pork
+
+commit 2da9d79030196c9ee92d405d9e2651e67821948d
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Mon May 25 14:57:48 2020 +0200
+
+    Removed: Inventory.txt
+    
+    ~ files not needed as data stored in player.txt
+
+commit d5383eba2fa39b3650f4b4516b03fefbc619dd1a
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Mon May 25 22:45:29 2020 +1000
+
+    Fixed collection access
+    
+    ~ Fixed: ExitManager renamed door manager, becuase it manages doors
+    ~ Fixed: current instances removed,in favour of just accessing by ids
+    ~ Changed:  wear position now explicit
+    ~ Fixed: raw pointers removed, in favour of unique pointers
+
+commit eec9d22d6811704f6bbca7647bbf85589b0def3c
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Mon May 25 20:55:02 2020 +1000
+
+    Fixed includes, and storage issue
+    
+    ~ Fixing: Items are never stored in many locations. Just id's used to look up
+
+commit 6c5ce2650d32fb89089eaba6874dce123763f540
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sun May 24 15:43:25 2020 +0200
+
+    File cleanup: SaveType and WearPosition
+
+commit 373649be1e28cb525f2ee54fe0fa77d9b5ac75cf
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sun May 24 15:33:34 2020 +0200
+
+    Update SaveType.cpp
+    
+    ~ bin type save implemented
+
+commit 70cca4bb910d47ef08e806ee962c870c3754e9e6
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sun May 24 15:29:14 2020 +0200
+
+    Update SaveType.cpp
+    
+    ~ filename error
+
+commit 4e45ed9010ca1ecb820a925a0763de44142cd2c6
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sun May 24 12:07:36 2020 +0200
+
+    SaveType implementation
+    
+    ~ enums added
+    ~ SaveType passed into EnumParser
+
+commit 61a55d54c3c6c15bec603ffa4b96a76e206cc452
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sun May 24 11:58:11 2020 +0200
+
+    Added: SaveType Classes
+
+commit 301615396059558d43abb6033bc2a5d6918cbb36
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sun May 24 11:57:02 2020 +0200
+
+    author update
+
+commit bd55dae173bf7116a5bfe5b155d544b8b6161269
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sun May 24 11:43:35 2020 +0200
+
+    Edit: PlayerManager and player classes
+    
+    ~ missing variables added to PlayerManager and player classes
+
+commit dc2a9a1b3a943a7d797bca3a5e6275c3fdda229d
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sat May 23 22:56:56 2020 +0200
+
+    Updates classes to have authors attached
+    
+    ~ updated to meet spec requirements
+
+commit 86135ba3992c09f4e6b40e113b204c225db2c6cc
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sat May 23 22:46:00 2020 +0200
+
+    Update CMakeLists.txt
+
+commit 9ce63068636087d4346071835c584a0bd6c0662c
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sat May 23 21:56:10 2020 +0200
+
+    Added: CMake and Makefile created
+    
+    ~ made both files, need to test what will work best
+
+commit c616c2e79e61b70682ebe59f3deb75c92ddb4652
+Merge: f6db5a8 13f4f82
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sat May 23 18:21:23 2020 +0200
+
+    Merge branch 'master' of https://github.com/JarrydSemmens/Pork
+
+commit f6db5a8c5a4cb92c4ea322a086a56a96a72b774c
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sat May 23 18:21:18 2020 +0200
+
+    Update PlayerManager.cpp
+    
+    ~ creating means to call player.txt data
+
+commit 13f4f82ebb8c980572a9879d285dc4d0a1390f8e
+Merge: f8227c1 ce9388b
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun May 24 01:45:45 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit f8227c1a07ac945859c73b4c817a1792fe036aa9
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun May 24 01:45:35 2020 +1000
+
+    loading items from disk
+    
+    ~ Added: pickups .txt for default items per area
+
+commit ce9388b1eed0900575a52e073ac9419da65cd37b
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sat May 23 17:27:53 2020 +0200
+
+    player and players txt update
+    
+    ~ players.txt holds login info for both players
+    ~ player.txt holds player stats and inventory for individual players
+
+commit c299bfb729b20cd968ed56136b642d7cbb913e3f
+Merge: eef6752 31a41b5
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sat May 23 23:04:47 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit eef6752c6a7fea108964846a3e4f007d6e23b69d
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sat May 23 23:00:22 2020 +1000
+
+    location rendering added
+    
+    ~ Added: Setting current room
+    ~ Added: setting current area
+    ~ fixed: Loaded values were not stored
+    ~ Added: Initialize to game, for setting up game state once content is loaded
+    ~ Fixed: current player now public
+    ~ Changed: locationID changed to currentroomID. Differs from assignment spec, but variables names shoudl be the thing, not the intention
+    ~ Fixed: Player room defaults to -1,  so we can choose a start room if not sest
+    ~ Fixed: process line now full virtual abstract
+
+commit 31a41b591ffda5d0a4f655f55492e9676286dda5
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Sat May 23 11:36:14 2020 +0200
+
+    Player.txt
+    
+    ~ added hash password to fred
+
+commit 523e9e8ffb6a87457a7319478f95645f3337873e
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 22 21:22:03 2020 +0200
+
+    Minor edits PlayerManger classes
+
+commit 0dad792b8dbda83a6e639ff9267ce9b2092101a3
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 22 20:45:27 2020 +0200
+
+    Added: individual player files, updated Area classes
+    
+    ~ Added Fred and Wilma Files
+    ~ added exits.txt to Fred and Wilma folders
+    ~ added inventory.txt to Fred and Wilma folders
+    ~ added player.txt  to Fred and Wilma folders
+    ~ added roomstates.txt  to Fred and Wilma folders
+    ~ changed Areas[] collecion name to AreasCollection[]
+
+commit 7f1cdf876818c99322dd1dfd54dc28caa487e8cb
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sat May 23 01:29:23 2020 +1000
+
+    Added some saving to doors
+    
+    ~ Added: save to line, method to doors
+    ~ Added: enum to string methods to enum parser
+
+commit 0673d48248ba9280ba7883d42e0e7c1754df8c03
+Merge: c72e14c 828c219
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 20:48:18 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit c72e14c167d20dd31ccdce231f9bbec37c23e5a4
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 20:48:10 2020 +1000
+
+    Included files and fixed bugs
+    
+    ~ Fixed: there were player methods in the playermanager
+    ~ Added: Area manager to game, and it loads files!
+    ~ Fixed: Areas.txt had extra tabs
+    ~ Fixed: areas.txt had two areas with the same id
+    ~ Fixed: areas.txt had wrong area id's for the areas.
+    ~ Fixed: const max inventory added to manager, also replacing size checks of arrays
+    ~ Fixed: Collection name in Areas, matched a type name and upset the compiler
+
+commit 828c21929f39d54a6631d4a113e9e33c0c65d8ac
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 22 12:04:18 2020 +0200
+
+    player.txt edited
+    
+    ~ have removed players stats and will place them into another file for data protection and safety
+
+commit 4f790a0fac2f5b2535e6dab25fb54aeaaec6782d
+Merge: 34f7433 ed0e757
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 19:44:28 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 34f7433b07bd30fc0e4dcacd02c2a7ffb890f816
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 19:44:18 2020 +1000
+
+    Exits now loaded from file
+    
+    ~ Added: Exit Manager to store, and load from file
+    ~ Fixed: Parsing in a door, was incomplete and failed
+
+commit ed0e757f1223b4bbc44786107baedd6dcb9a6de9
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 22 11:39:01 2020 +0200
+
+    player.txt renamed
+
+commit 626d64c28e6d2cafc66d2fcb473a3646d4913310
+Merge: 88fb5f5 b945cdd
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 22 11:33:54 2020 +0200
+
+    Merge branch 'master' of https://github.com/JarrydSemmens/Pork
+
+commit 88fb5f57a41b762d458c94c334f8bf0e37fc871b
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 22 11:33:42 2020 +0200
+
+    areas.txt renamed
+    
+    ~players.txt renamed
+    ~AreaManager.cpp simplified
+
+commit b945cdd31421963c5946b3ec1f1d877f86da0557
+Merge: 08c6b63 0d8ae0b
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 19:29:50 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 08c6b632a514ab32c6aad5fc2cd076d6633538aa
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 19:29:35 2020 +1000
+
+    String helper now a static class
+    
+    ~ Fixed: Name, to be consistent with mathhelper
+    
+    We only need one of these app wide.
+
+commit b42064f3a18efeda4df8308da1412831122bc174
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 19:27:36 2020 +1000
+
+    Adding door support (exits.txt)
+    
+    ~ Added: Static class Mathhelper, with cantor methods for use with exits IDs
+    ~ Added: Door class (renamed)
+    ~ Added: Doors to Roomstate
+    ~ Fixed: Area.txt renamed to areas.txt as per assignment spec
+
+commit 0d8ae0bad069410d57fa4ca69480c9c364978fca
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 22 11:06:35 2020 +0200
+
+    Area Classes
+    
+    ~ Area classes modified to load from ILoadObject to be inline with rest of project
+
+commit e9b55315cc8f8e7d4f30ce8a7b02b40b2333f644
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 18:14:30 2020 +1000
+
+    using iload object for items and rooms
+
+commit 70ee2ce02f139501c151af15b0a59f566cc0b824
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 16:45:29 2020 +1000
+
+    Adding ISave "interfaces" for consistent save\load behaviour
+    
+    These two abstract classes, will constrain objects to load and save in the same way, making it easier to implement more objects that can be saved and loaded.
+    
+    Not all objects need to both save and load, which is why they are seperate
+
+commit a6b42b7df3f1c6e309069a15e242ee64d1189428
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 22 16:44:17 2020 +1000
+
+    Added door and roomstates, for game persistence
+    
+    ~ Added: doorstate as per design
+    ~ Added: roomstate as per design
+
+commit ba77ceadd13b880409cd4e4e63c11380164c28a6
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 20 22:03:56 2020 +0200
+
+    Added: Area Manager , area.txt, player.txt
+    
+    ~ Area classes populated with variables
+    ~ renamed incorrect Area.cpp file
+    ~ corrected spelling mistakes in txt files
+    ~ txt files created to specs
+    ~
+
+commit 219037ce5423e88fece726afee7e65755b1d9040
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 20 21:14:35 2020 +0200
+
+    Added: Area Classes
+
+commit 6cb9e0aa53fe43f0cc46e364ed4046e090a61002
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 20 21:11:23 2020 +0200
+
+    Player Classes
+    
+    ~ removed redundant code and streamlined variable calling
+
+commit 07f57b7de2d463c01f5bc8be43f5d6c21a4c09de
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 20 20:57:06 2020 +1000
+
+    Added room loading
+    
+    ~ Added: Rooms.txt, with 5 rooms ready to play built to spec
+    ~ Added: room parsing
+    ~ Added: Room manager to game
+
+commit 86cc8a07f9610d50c7fbde9c62da412a3ed8954e
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 20 20:18:46 2020 +1000
+
+    Moved file loaded down to base class
+    
+    ~ Added: manager base, for loading up files and doing most of the parsing
+    ~ Added: process line, to item manager to finish the parsing and store it
+    
+    this prevents us from re-writing the load file code several times, since they are all similar formats
+
+commit 9eb9e0409be4eb2fec7c394d1a5766bbf63be60b
+Merge: 3014120 c0b124e
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 20 19:40:10 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 30141203dd27051ce750e565771602a88159d1eb
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 20 19:39:18 2020 +1000
+
+    Item Parsing Works
+    
+    ~ Changed: Direction.cpp is now enum parser
+    ~ Changed: Commands tables moved to enum parser
+    ~ Added: Static accessor to enum parser
+    ~ Removed: UUID's, they're too complicated for our needs. using sequential ints instead
+    ~ Removed: Default cases on enums
+    ~ Removed: my duplicate wear position, mirro is doing that
+    ~ Added: item contstructor that takes in read parameters
+    ~ Added: Item parsing from the sample file!
+
+commit c0b124e1813833d5340ea396ad72fdfc0f3b2537
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 20 11:09:04 2020 +0200
+
+    PlayerManager classes
+    
+    ~ missing variables added
+    ~ missing variables called where needed
+
+commit 16cf87890b4479c427b9c046cac2ed2f3ea10f76
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 20 10:33:52 2020 +0200
+
+    Class update PlayerManager
+    
+    ~ IsAlive adjusted to be a boolean
+    ~ variables changed to be uniform with rest of program
+
+commit 6c889dde3fd57f52da317221945ae3b1cf6f04f3
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 20 10:20:29 2020 +0200
+
+    Player and PlayerManager classes
+    
+    ~ variables altered to have consistancy with rest of program
+
+commit a9760102aec0baeac081d29fd08a23ac9327f351
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Wed May 20 10:00:26 2020 +0200
+
+    PlayerMAnager Classes
+    
+    Classes cleaned up and variables implemented
+
+commit 7306b5d4c1f0d4b44431494a962c47dc94e4fcf6
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Wed May 20 17:22:58 2020 +1000
+
+    added: missing lib location for staging.
+
+commit 62dc39bff5cc9a6f0c2e7159578f7195c11f1d0f
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Tue May 19 23:09:27 2020 +1000
+
+    adding: item file parsing
+
+commit 6ce26a71fea8bbfc0c75a1fc603ba745c4c4a3b9
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Mon May 18 22:17:16 2020 +1000
+
+    vs now copies the results across
+
+commit 451edd69dc55623a065943d4c631875502edc8ef
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Mon May 18 21:16:08 2020 +1000
+
+    Added: items.txt content file
+
+commit aba4cf981a3e4ff03bfe32cb10199e46006557d5
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Mon May 18 19:15:39 2020 +1000
+
+    Adding: Item system
+    
+    Added: Miro's player and enum types to project
+
+commit 6de367b9d4f42f04a4ce5c8480ca36fa3f4fb87e
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 12 22:58:35 2020 +0200
+
+    PlayerManager and Direction classes
+    
+    fixed flagged errors
+
+commit 3ecf55de14b5f27cc705f5865f16198dcaa308b5
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 12 22:01:51 2020 +0200
+
+    Update PlayerManager.cpp
+    
+    minor code changes made to print output
+
+commit 435ae234fea618a65a9dc1e8b8e6933d3984535b
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 12 21:47:42 2020 +0200
+
+    Player, PlayerManager, Direction classes update
+    
+    Added code to listed classes
+
+commit 2d438964a6b615ea614ce3d223e682ee3267cfea
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 12 20:06:17 2020 +0200
+
+    Direction Class updates
+
+commit e32dc6a2a60dc6bbd6934544e770b487479be09c
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 12 17:35:38 2020 +0200
+
+    Added Direction enum
+
+commit 98b440782bc4336005cf4738535f544b50dd6696
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 12 17:18:03 2020 +0200
+
+    Added PlayerManager
+
+commit 35528d0747f5451feffca0578ed651230a50b0b4
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Tue May 12 16:42:52 2020 +0200
+
+    WearPosition created
+
+commit 8a6581e89d66d8b871e8d97a74d748a18fc23e9f
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Mon May 11 22:08:19 2020 +1000
+
+    Added state machine
+    
+    ~ Added: Basic state machine using results of parse command
+    ~ Added: Messages for each function
+    ~ Added: substring for additional commands, passed down
+
+commit 77f171ce8b96672a650803c0526a6701b3badc2e
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun May 10 15:20:09 2020 +1000
+
+    Added basic parsing
+    
+    ~ Added: Lookup map for checking command input vs strings the player submits
+    ~ Added: toupper, so case doesnt matter, but is concealed from player
+
+commit 05c21dbfdb5c401b21aee5b3d640623e1ee0873d
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun May 10 14:32:13 2020 +1000
+
+    Merged with Miro's changes
+    
+    ~ Fixed: Player header file in wrong location
+    ~ Added: Stub class for Item
+    ~ Added: Style guide in markdown. (View it in VS Code). It's not concrete! just a start.
+    
+    After including the player file, I corrected a few minor issue so we can compile.
+    
+    ~ Fixed: Initialize signature in .cpp did not match
+    ~ Fixed: "PlayerName" was used in a few places, swapped it with "UserName" as per UML
+    ~ Fixed: Boost includes added for uuid, in
+    ~ Fixed: Array declarations, had type and name switched.
+    ~ Fixed: Array declarations did not include size. C# can have dynamic array declarations, but C++ can't. It's really annoying.
+    missed stages from last commit
+    
+    
+    whitespace
+
+commit fbcce47492e8168ffb9fdbd989a8c15d8cf05711
+Merge: 18b18d8 24a51a2
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun May 10 13:57:29 2020 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 18b18d8ff4bcd7322c5538125ca874908b9e551e
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun May 10 13:51:18 2020 +1000
+
+    Added boost as a library
+    
+    ~ Fixed: Tidied tools class for this assignment
+    
+    I'm using the latest boost, installed to this location:
+    C:\Program Files\Boost\boost_1_73_0
+    
+    By install, I mean extracted the downloaded zip, and ran the bootstrap.bat file.
+
+commit c6e3211f6fb8f0d2916b6637e68c52097c9fe6c5
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 8 23:57:13 2020 +1000
+
+    Added file descriptors and tools from previous assignment
+    
+    Added: Tools class, for sanitizing strings.
+
+commit 3ed4afc62d21ebc7cb6234f9e1c3b3146d27ea0c
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 8 23:49:53 2020 +1000
+
+    Added Commmand parser stub
+    
+    ~ Added: parser to game with fail output similar to zork
+
+commit 90a3b7696780ad3011a61369782f40eedfd3f027
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 8 22:58:31 2020 +1000
+
+    Added User commands enum
+
+commit 1a34796a4bcbc39af6d811a2f97867a9705d0637
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Fri May 8 22:40:16 2020 +1000
+
+    Added basic game loop
+    
+    ~ Added: pork game class, with update, input and render
+
+commit 24a51a249364953d85c5a059e97b8dd8a6d94667
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 8 11:42:53 2020 +0200
+
+    minor updates to player files
+
+commit 7657cde8de500d845fab5a7082043dd6b0957566
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 8 11:27:47 2020 +0200
+
+    Player Class created
+    
+    player class cretaed and beginning to initialise variables
+
+commit ce65b9ef44fa30e38285068f6133ea276c14194b
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 8 09:26:04 2020 +0200
+
+    Create Player.cpp
+    
+    player file created
+
+commit ea79c6b0103d9bd07b7429c2b906a02af48c5121
+Author: s3666906 <s3666906@student.rmit.edu.au>
+Date:   Fri May 8 09:18:06 2020 +0200
+
+    Update Pork.cpp
+    
+    authors section add to main file
+
+commit 6c1043863c3a468cf3a460c113d8177326c1f42e
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun May 3 20:42:52 2020 +1000
+
+    Added command line project for Pork
+
+commit 03e752f080fa26179ffd56f71829e3e91b9b7943
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun Apr 26 15:47:12 2020 +1000
+
+    Tidied md file
+
+commit dc0cf39a6ea1faf5400a40a33dbcfb75e8ff590c
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun Apr 26 15:46:06 2020 +1000
+
+    Initial Commit
+    
+    ~ Added: summary MD file
+    ~ Added: gitignore file
+
+commit 05fc58b15e20f9a4f2ddcc08fb690ba7a2305d94
+Author: Jarryd Semmens <JarrydSemmens@hotmail.com>
+Date:   Sun Apr 26 15:35:38 2020 +1000
+
+    Initial commit

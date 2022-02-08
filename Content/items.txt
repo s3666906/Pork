@@ -1,0 +1,21 @@
+01	HEAD	Helm	A beautiful piece of armor that will projected your skull from damage.	200
+02	ARMS	Vambrace	Armor that protects your arms, carved to look like a pair of canaries.	100
+03	HANDS	Gloves	Armor that protects your hands, once worn by Leonardo Flathead.	50
+04	TORSO	Breastplate	Tough armor that covers the chest, polished to a high sheen.	25
+05	TORSO	Belt	Armor that protects your midriff and holds up trousers while looking ritzy.	150
+06	LEGS	Pantaloons	Shiny leg armor, that will reflect magical spells.	400
+07	FEET	Sandals	Armor for your feet, made from elephant tusks. Disgusting.	40
+08	WEAPON	Sword	An ancient egyptian sword, once belonging to Ramses II.	111
+09	SHIELD	Buckler	A shield that will protect you, but is a bit rusty.	160
+10	WEAPON	Trident	A powerful stabbing weapon, once wielded by the might Poseidon.	60
+11	HELD	Figurine	A finely crafted jade figurine of some ancient forgotten goddess.	5
+12	ARMS	Bracelet	Offers no protection, but improves mana regenration.	40
+13	HELD	Diamond	A great big cut diamond worth a fortune!	999
+14	HELD	Coins	A rough leather pouch, containing several ancient coins.	80
+15	HELD	Skull	A pretty cool looking bone.	-999
+16	HELD	Jewelled-Scarab	A mechanical beetle encrusted with gems.	500
+17	HELD	Emerald	This green gem is carved into a strange shape.	77
+18	HELD	Chalice	This cup could use a polish.	99
+19	HELD	Wine	A dusty bottle of 82' Merlot.	5
+20	WEAPON	Stick	A simple tree branch.	0
+21	HELD	Rock	This naturally occuring aggregate mass of minerals is millions of years old.	0

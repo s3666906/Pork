@@ -1,0 +1,6 @@
+01	01	01	Temple Square	You stand before an ancient temple. A forest path stretches north, and an white house can be seen to the East.
+02	02	01	Forest	There is a path winding through a dimly lit forest. The path behind is concealed by trees, but continues in the West towards a house.
+03	03	01	West of House	You are standing in an open field, west of a white house. The front door is East, but a path towards a clearing leads south.
+04	04	01	Inside House	A dirty old kitchen filled with electronics and food packages that belong in the 1980's. A set of decrepid stairs leading into darkness is south, there is an open door to the east and a window you could climb through on the west wall.
+05	01	02	Cellar	This dirty cellar is full of old leaves and broken glass. Light comes down the stairs from the north.
+06	02	02	Underground Lake	Dripping noises come from across the surface of a vast underground lake. A broken wall leads east.
